@@ -48,13 +48,13 @@
 
     <ul>
         <li style="color: gray">
-            <a target="_blank" href="http://rgdsmint.ooo" style="color: gray">我的博客</a>
+            <a target="_blank" href="http://101.132.158.235" style="color: gray">我的博客</a>
         </li>
         <li style="color: gray">
-            <a target="_blank" href="http://rgdsmint.xyz/WhoILove.html" style="color: gray">小姐姐的字符流星</a>
+            <a target="_blank" href="whoilove.html" style="color: gray">小姐姐的字符流星</a>
         </li>
         <li style="color: gray">
-            <a target="_blank" href="http://rgdsmint.xyz/eatsnake.html" style="color: gray">贪吃蛇</a>
+            <a target="_blank" href="eatsnake.html" style="color: gray">贪吃蛇</a>
         </li>
     </ul>
 </body>
