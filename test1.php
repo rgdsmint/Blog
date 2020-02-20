@@ -16,6 +16,8 @@
     if (($password == "admin" && $name == "admin") || ($password == "2926627601" && $name == "2926627601")) {
         echo '<script>
             document.cookie="can";
+            </script>';
+        echo '<script>
             window.location.href="OneClassNineGrade.html";  
             </script>';
     } else {
