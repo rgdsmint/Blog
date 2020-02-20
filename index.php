@@ -3,7 +3,7 @@
 
 <head>
     <script>
-        document.cookie = "cant";
+        /*document.cookie = "cant";*/
     </script>
 
     <meta charset="UTF-8">

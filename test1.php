@@ -14,9 +14,9 @@
     $name = $_POST["name"];
     $password = $_POST["password"];
     if (($password == "admin" && $name == "admin") || ($password == "2926627601" && $name == "2926627601")) {
-        echo '<script>
+        /*echo '<script>
             document.cookie="can";
-            </script>';
+            </script>';*/
         echo '<script>
             window.location.href="OneClassNineGrade.html";  
             </script>';
